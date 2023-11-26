@@ -1,5 +1,4 @@
-**Tic-Tac-Toe game implementation**
-
+<H1>**Tic-Tac-Toe game implementation**</H1>
 
 
 
