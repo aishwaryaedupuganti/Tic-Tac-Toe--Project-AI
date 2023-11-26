@@ -38,9 +38,9 @@ The goal of this project is to create an intelligent system that can play Tic Ta
 
 Three Artificial Intelligence Agents were created:
 
- 1.Q Learning Method
+1.Q Learning Method
  
- 2.The Min-Max Algorithm
+2.The Min-Max Algorithm
 
 3. Pruning Alpha-Beta
 
