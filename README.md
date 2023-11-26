@@ -42,7 +42,7 @@ Three Artificial Intelligence Agents were created:
  
  2.The Min-Max Algorithm
 
-3. Pruning Alpha-Beta
+ 3. Pruning Alpha-Beta
 
 To find the most efficient Algorithm, play Tic Tac Toe with them several times. Comparing the efficiency of three algorithms by calculating the corresponding performance metrics and determining which algorithm performs better, adversarial search or Reinforcement Learning. Finally, the main goal of this project would be to develop an intelligent system capable of learning and adapting to new challenges, resulting in more robust and capable AI systems in the future.
 
