@@ -16,3 +16,6 @@
 
 
 ![image](https://github.com/aishwaryaedupuganti/Tic-Tac-Toe--Project-AI/assets/78846108/84f6a690-7789-44d7-9678-8ffdb1fa1489)
+
+
+<b><H1>Introduction</H1></b>
